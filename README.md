@@ -47,7 +47,7 @@ Each indicator is represented as a ranking where **Rank 1 indicates the best-per
 
 ---
 
-# 📈 Business Questions & Dashboard Insights
+# 📈 Questions & Dashboard Insights
 
 ---
 
@@ -77,7 +77,7 @@ Rather than focusing on a single indicator, this analysis evaluates how regions 
 
 ## 3️⃣ Has the quality of life improved at the same pace as the economy?
 
-### Business Context
+### Context
 
 Economic growth is often viewed as a measure of national progress. However, sustainable development also depends on improvements in education, healthcare, and living standards.
 
